@@ -1,5 +1,17 @@
 # [Samuwrite](https://samuwrite.com)
 
+* SET UP FOR DEPLOYMENT
+
+```
+https://vercel.com/guides/how-can-i-use-github-actions-with-vercel
+
+use node 16, change it in .github and vercel project
+
+https://vercel.com/hungns126s-projects/samuwrite/settings
+
+```
+
+
 Samuwrite is a writing app. Its [Zen] design, from interface to typography, let you focus on your writing, and nothing else. With Vim mode and in-editor code highlight, it's made for developers. Without any trackers and ads, it's made for human.
 
 Now available at [samuwrite.com]
